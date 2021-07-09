@@ -1,0 +1,16 @@
+* {
+	margin: 0 auto;
+	padding: 0;
+}
+h1 {
+	font-family: Roboto ;
+	color: red;
+	margin: 20px 40px;
+}
+
+img {
+	width: 400px;
+	border: none;
+	border-radius: 15px;
+	margin-left: 20px;
+}
